@@ -1,33 +1,8 @@
-# zmh20121211.github.io
-# 21306.top于2025年1月25日18建站
-# 21306.top will be built on January 25, 2025 on 18
-
-
 <!DOCTYPE HTML>
 <html class="html-page no-js" xmlns="http://www.w3.org/1999/xhtml" lang="zh-cn" xml:lang="zh-cn">
     <head>
-    
-    
-
 <link rel="preconnect" href="https://images.nvidia.cn" crossorigin/>
-
-
-
-
-
-
-
-
-
-
     <link rel="preload" href="https://images.nvidia.cn/etc/designs/nvidiaGDC/clientlibs_base/fonts/nvidia-sans/APAC/var/NVIDIASansVF_APAC_W_Wght.woff2" as="font" type="font/woff2" crossorigin/> 
-
-
-
-
-
-
-
 <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
 <meta name="robots" content="NOODP,NOYDIR"/> 
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
@@ -43,52 +18,26 @@
 <meta property="og:url" content="https://www.nvidia.cn/geforce/graphics-cards/50-series/"/>
 <meta property="og:title" content="GeForce RTX 50 系列显卡"/>
 <meta property="og:description" content="搭载 NVIDIA Blackwell 架构。"/>
-
 	<meta property="og:image" content="https://www.nvidia.cn/content/dam/en-zz/zh_cn/Solutions/geforce/graphics-cards/50-series/geforce-rtx-50series-og-1200x630-zhCN-3561420.jpg"/>
-
-
-
-
 <meta name="twitter:card" content="summary_large_image"/>
 <meta name="twitter:site" content="@NVIDIA"/>
 <meta name="twitter:creator" content="@NVIDIAGeForce"/>
 <meta name="twitter:title" content="NVIDIA GeForce RTX 50 系列显卡"/>
 <meta name="twitter:url" content="https://www.nvidia.cn/geforce/graphics-cards/50-series/"/>
 <meta name="twitter:description" content="GeForce RTX™ 50 系列 GPU 搭载 NVIDIA Blackwell 架构，为游戏玩家和创作者带来全新玩法。"/>
-
 	<meta name="twitter:image" content="https://www.nvidia.cn/content/dam/en-zz/zh_cn/Solutions/geforce/graphics-cards/50-series/geforce-rtx-50series-og-1200x630-zhCN-3561420.jpg"/>
-
-
-
-
-
-
-
-
-
-
-
 <meta name="ps-key" content="1781-57d9f03d015405367a598032"/>
 <meta name="ps-country" content="CN"/>
 <meta name="ps-language" content="zh"/>
 <link rel="canonical" href="https://www.nvidia.cn/geforce/graphics-cards/50-series/"/>
-
 <!-- HrefLang Starts -->
-
 	<link rel="alternate" hreflang="en-kw" href="https://www.nvidia.com/en-me/geforce/graphics-cards/50-series/"/>
-
 	<link rel="alternate" hreflang="de-at" href="https://www.nvidia.com/de-at/geforce/graphics-cards/50-series/"/>
-
 	<link rel="alternate" hreflang="en-gr" href="https://www.nvidia.com/en-eu/geforce/graphics-cards/50-series/"/>
-
 	<link rel="alternate" hreflang="ro-ro" href="https://www.nvidia.com/ro-ro/geforce/graphics-cards/50-series/"/>
-
 	<link rel="alternate" hreflang="pt-br" href="https://www.nvidia.com/pt-br/geforce/graphics-cards/50-series/"/>
-
 	<link rel="alternate" hreflang="en-ph" href="https://www.nvidia.com/en-ph/geforce/graphics-cards/50-series/"/>
-
 	<link rel="alternate" hreflang="th-th" href="https://www.nvidia.com/th-th/geforce/graphics-cards/50-series/"/>
-
 	<link rel="alternate" hreflang="cs-cz" href="https://www.nvidia.com/cs-cz/geforce/graphics-cards/50-series/"/>
 
 	<link rel="alternate" hreflang="en-lb" href="https://www.nvidia.com/en-me/geforce/graphics-cards/50-series/"/>
@@ -17060,3 +17009,5 @@ $(document).ready(function(){
     
     <noscript><img src="https://www.nvidia.cn/akam/13/pixel_56ca5ece?a=dD0wMDAwZTA3NjIxZjFjMGU5Njg4OWMxY2JmMTE4NmIzYTE4OTNjYWU3JmpzPW9mZg==" style="visibility: hidden; position: absolute; left: -999px; top: -999px;" /></noscript></body>
 </html>
+# 21306.top建于2025年1月25日18时
+# 21306.top built at 6 p.m. on January 25, 2025
